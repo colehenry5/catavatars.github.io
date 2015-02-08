@@ -1,9 +1,9 @@
-p {
+body {
   font-family: "Trebuchet MS";
-  font-size: 13px;
 }
-h1, h2, h3 {
-  font-family: "Trebuchet MS";
+
+p {
+  font-size: 13px;
 }
 
 h1#title {
