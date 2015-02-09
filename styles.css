@@ -1,3 +1,4 @@
+
 body {
     font-family: "Trebuchet MS";
 }
@@ -11,29 +12,7 @@ h1#title {
     padding: 20px;
 }
 
-#menu {
-    width: 350px;
-    height: 25px;
-    font-size: 16px;
-    text-align: left;
-    background-color: rgb(102, 204, 255);
-}
-
-#menu {
-    height: auto;
-    padding: 4px 0px;
-    margin: 0px;
-}
-#menu li {
-    display: inline;
+code#lua {
+    border: 1px solid gray;
     padding: 4px;
-}
-
-#menu a {
-    text-decoration: none;
-    padding: 4px 4px 4px 4px;
-}
-
-#menu a:hover {
-    background-color: rgb(16, 176, 255);
 }
