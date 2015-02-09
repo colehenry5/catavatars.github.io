@@ -7,13 +7,13 @@ div#menu {
     background-color: rgb(102, 204, 255);
 }
 
-ul#menu {
+#menu ul {
     height: auto;
     padding: 8px 0px;
     margin: 0px;
 }
 
-li#menu {
+#menu li {
     display: inline;
     padding: 10px;
 }
