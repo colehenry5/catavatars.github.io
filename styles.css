@@ -32,7 +32,7 @@ h1#title {
 
 #menu a {
     text-decoration: none;
-    padding: 4px;
+    padding: 4px 4px 4px 4px;
 }
 
 #menu a:hover {
