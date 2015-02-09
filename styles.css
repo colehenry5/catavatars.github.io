@@ -27,7 +27,7 @@ h1#title {
 #menu li {
     float: left;
     display: inline;
-    padding: 4px;
+    padding: 8px;
 }
 
 #menu a {
