@@ -7,6 +7,14 @@ p {
     font-size: 13px;
 }
 
+p#notice {
+    background-color: rgb(255, 255, 0);
+    color: white;
+    outline: 2px solid rgb(215, 215, 0);
+    padding: 4px;
+    text-align: center;
+}
+
 h1#title {
     background-color: rgb(102, 204, 255);
     padding: 20px;
