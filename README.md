@@ -1,3 +1,3 @@
 # defusal.github.io
 
-trying my html skills 
+trying my html skills
