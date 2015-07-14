@@ -1,3 +1,3 @@
-# defusal.github.io
+# catavatars.github.io
 
-trying my html skills
+collection of cat avatars drawn by me
